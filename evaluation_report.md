@@ -1,7 +1,7 @@
 # Evaluation Report: DC Language Translator
 ### Project — Natural Language Processing
 **Institution:** Durham College 
-**Professor:** Priyamvada Tripathi 
+**Professor:** Priyamvada Tripathi  
 **Student:** Mirza Mustafa Ali Khan  
 **Student ID:** 100920682  
 **Date:** April 2026
