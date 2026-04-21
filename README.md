@@ -7,7 +7,7 @@
 
 ##  Overview
 
-The DC Language Translator is a multi-language translation pipeline built using Helsinki-NLP's pre-trained MarianMT models from HuggingFace. The system supports **8 language pairs**, automatically detects the source language, and provides a clean Gradio web interface with session translation history. No API key is required all models run fully locally.
+The DC Language Translator is a multi-language translation pipeline built using Helsinki-NLP's pre-trained MarianMT models from HuggingFace. The system supports **8 language pairs**, automatically detects the source language, and provides a clean Gradio web interface. No API key is required all models run fully locally.
 
 ---
 
@@ -143,9 +143,9 @@ All five language pairs **outperformed** Google Translate on this evaluation set
 
 ---
 
-##  Demo
+##  Demo Video Link
 
-> 
+> https://www.loom.com/share/8afe1c46588c43219eafff65efa331ce
 
 ---
 
