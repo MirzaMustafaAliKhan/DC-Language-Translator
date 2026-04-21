@@ -1,0 +1,6 @@
+Language Pair,Source Language,Target Language,Num Sentences,DC BLEU,Google Translate BLEU,Gap (DC - Google)
+FR→EN,fr,en,20,75.78,58.3,17.48
+DE→EN,de,en,20,82.16,52.7,29.46
+ES→EN,es,en,20,78.87,61.2,17.67
+IT→EN,it,en,20,70.32,54.8,15.52
+PT→EN,pt,en,20,80.35,57.4,22.95

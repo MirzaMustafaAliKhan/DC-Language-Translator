@@ -1,0 +1,101 @@
+Language Pair,Sentence ID,Source,Hypothesis,Reference,Sentence BLEU
+FR→EN,1,"Bonjour, comment allez-vous?","Hello, how are you?","Hello, how are you?",100.0
+FR→EN,2,Je m'appelle Marie et j'habite à Paris.,My name is Marie and I live in Paris.,My name is Marie and I live in Paris.,100.0
+FR→EN,3,Le chat dort sur le canapé.,The cat sleeps on the couch.,The cat is sleeping on the sofa.,17.03
+FR→EN,4,Il fait beau aujourd'hui.,It's beautiful today.,The weather is nice today.,19.38
+FR→EN,5,J'aime manger des croissants le matin.,I like to eat croissants in the morning.,I like eating croissants in the morning.,51.33
+FR→EN,6,La réunion commence à dix heures.,The meeting starts at ten o'clock.,The meeting starts at ten o'clock.,100.0
+FR→EN,7,"Pouvez-vous m'aider, s'il vous plaît?","Can you help me, please?","Can you help me, please?",100.0
+FR→EN,8,Le livre est très intéressant.,The book is very interesting.,The book is very interesting.,100.0
+FR→EN,9,Nous allons au marché ce week-end.,We're going to the market this weekend.,We are going to the market this weekend.,74.21
+FR→EN,10,Les enfants jouent dans le jardin.,Children play in the garden.,The children are playing in the garden.,36.41
+FR→EN,11,Elle parle trois langues différentes.,She speaks three different languages.,She speaks three different languages.,100.0
+FR→EN,12,Le train arrive dans cinq minutes.,The train's coming in five minutes.,The train arrives in five minutes.,43.47
+FR→EN,13,"Je voudrais une tasse de café, s'il vous plaît.","I'd like a cup of coffee, please.","I would like a cup of coffee, please.",77.26
+FR→EN,14,La France est un beau pays.,France is a beautiful country.,France is a beautiful country.,100.0
+FR→EN,15,Il travaille dans une grande entreprise.,He works in a big company.,He works in a large company.,48.89
+FR→EN,16,Nous avons besoin de plus de temps.,We need more time.,We need more time.,100.0
+FR→EN,17,Le film a commencé il y a une heure.,The movie started an hour ago.,The movie started an hour ago.,100.0
+FR→EN,18,Elle a étudié la médecine pendant six ans.,She studied medicine for six years.,She studied medicine for six years.,100.0
+FR→EN,19,Les fleurs sont magnifiques au printemps.,The flowers are beautiful in spring.,The flowers are magnificent in spring.,41.11
+FR→EN,20,Je dois partir maintenant.,I have to leave now.,I have to leave now.,100.0
+DE→EN,1,"Guten Morgen, wie geht es Ihnen?","Good morning, how are you?","Good morning, how are you?",100.0
+DE→EN,2,Ich heiße Thomas und wohne in Berlin.,My name is Thomas and I live in Berlin.,My name is Thomas and I live in Berlin.,100.0
+DE→EN,3,Der Hund schläft auf dem Sofa.,The dog sleeps on the sofa.,The dog is sleeping on the sofa.,42.38
+DE→EN,4,Das Wetter ist heute schön.,The weather is nice today.,The weather is nice today.,100.0
+DE→EN,5,Ich esse gerne Brot zum Frühstück.,I like to eat bread for breakfast.,I like eating bread for breakfast.,41.11
+DE→EN,6,Das Meeting beginnt um zehn Uhr.,The meeting starts at ten o'clock.,The meeting starts at ten o'clock.,100.0
+DE→EN,7,Können Sie mir bitte helfen?,"Can you help me, please?",Can you help me please?,48.89
+DE→EN,8,Das Buch ist sehr interessant.,The book is very interesting.,The book is very interesting.,100.0
+DE→EN,9,Wir gehen dieses Wochenende einkaufen.,We're going shopping this weekend.,We are going shopping this weekend.,64.32
+DE→EN,10,Die Kinder spielen im Garten.,The children play in the garden.,The children are playing in the garden.,42.38
+DE→EN,11,Sie spricht drei verschiedene Sprachen.,She speaks three different languages.,She speaks three different languages.,100.0
+DE→EN,12,Der Zug kommt in fünf Minuten an.,The train arrives in five minutes.,The train arrives in five minutes.,100.0
+DE→EN,13,"Ich hätte gerne eine Tasse Kaffee, bitte.","I'd like a cup of coffee, please.","I would like a cup of coffee, please.",77.26
+DE→EN,14,Deutschland ist ein schönes Land.,Germany is a beautiful country.,Germany is a beautiful country.,100.0
+DE→EN,15,Er arbeitet in einem großen Unternehmen.,He works in a large company.,He works in a large company.,100.0
+DE→EN,16,Wir brauchen mehr Zeit.,We need more time.,We need more time.,100.0
+DE→EN,17,Der Film hat vor einer Stunde begonnen.,The film started an hour ago.,The movie started an hour ago.,64.35
+DE→EN,18,Sie hat sechs Jahre Medizin studiert.,She studied medicine for six years.,She studied medicine for six years.,100.0
+DE→EN,19,Die Blumen sind im Frühling wunderschön.,The flowers are beautiful in spring.,The flowers are beautiful in spring.,100.0
+DE→EN,20,Ich muss jetzt gehen.,I have to go now.,I have to leave now.,37.99
+ES→EN,1,"Buenos días, ¿cómo estás?","Good morning, how are you?","Good morning, how are you?",100.0
+ES→EN,2,Me llamo Carlos y vivo en Madrid.,My name is Carlos and I live in Madrid.,My name is Carlos and I live in Madrid.,100.0
+ES→EN,3,El gato duerme en el sofá.,The cat sleeps on the couch.,The cat sleeps on the sofa.,64.35
+ES→EN,4,Hoy hace buen tiempo.,It's good weather today.,The weather is nice today.,19.36
+ES→EN,5,Me gusta comer pan con tomate por la mañana.,I like to eat tomato bread in the morning.,I like eating bread with tomato in the morning.,33.57
+ES→EN,6,La reunión empieza a las diez.,The meeting starts at 10:00.,The meeting starts at ten.,36.56
+ES→EN,7,"¿Puedes ayudarme, por favor?","Can you help me, please?","Can you help me, please?",100.0
+ES→EN,8,El libro es muy interesante.,The book is very interesting.,The book is very interesting.,100.0
+ES→EN,9,Vamos al mercado este fin de semana.,We're going to the market this weekend.,We are going to the market this weekend.,74.21
+ES→EN,10,Los niños juegan en el jardín.,Kids play in the garden.,The children play in the garden.,64.32
+ES→EN,11,Ella habla tres idiomas diferentes.,She speaks three different languages.,She speaks three different languages.,100.0
+ES→EN,12,El tren llega en cinco minutos.,The train arrives in five minutes.,The train arrives in five minutes.,100.0
+ES→EN,13,"Me gustaría una taza de café, por favor.","I'd like a cup of coffee, please.","I would like a cup of coffee, please.",77.26
+ES→EN,14,España es un país hermoso.,Spain is a beautiful country.,Spain is a beautiful country.,100.0
+ES→EN,15,Él trabaja en una gran empresa.,He works in a big company.,He works in a large company.,48.89
+ES→EN,16,Necesitamos más tiempo.,We need more time.,We need more time.,100.0
+ES→EN,17,La película empezó hace una hora.,The movie started an hour ago.,The movie started an hour ago.,100.0
+ES→EN,18,Ella estudió medicina durante seis años.,She studied medicine for six years.,She studied medicine for six years.,100.0
+ES→EN,19,Las flores son magníficas en primavera.,The flowers are magnificent in spring.,The flowers are magnificent in spring.,100.0
+ES→EN,20,Tengo que irme ahora.,I have to go now.,I have to leave now.,37.99
+IT→EN,1,"Buongiorno, come stai?","Good morning, how are you?","Good morning, how are you?",100.0
+IT→EN,2,Mi chiamo Luca e abito a Roma.,My name is Luca and I live in Rome.,My name is Luca and I live in Rome.,100.0
+IT→EN,3,Il gatto dorme sul divano.,The cat sleeps on the couch.,The cat sleeps on the sofa.,64.35
+IT→EN,4,Oggi il tempo è bello.,Today's weather is good.,Today the weather is nice.,19.36
+IT→EN,5,Mi piace mangiare la pizza la sera.,I like to eat pizza at night.,I like eating pizza in the evening.,13.13
+IT→EN,6,La riunione inizia alle dieci.,The meeting starts at 10:00.,The meeting starts at ten.,36.56
+IT→EN,7,"Puoi aiutarmi, per favore?","Can you help me, please?","Can you help me, please?",100.0
+IT→EN,8,Il libro è molto interessante.,The book is very interesting.,The book is very interesting.,100.0
+IT→EN,9,Andiamo al mercato questo fine settimana.,Let's go to the market this weekend.,We are going to the market this weekend.,60.04
+IT→EN,10,I bambini giocano in giardino.,Children play in the garden.,The children play in the garden.,64.32
+IT→EN,11,Lei parla tre lingue diverse.,You speak three different languages.,She speaks three different languages.,50.81
+IT→EN,12,Il treno arriva tra cinque minuti.,The train will be here in five minutes.,The train arrives in five minutes.,35.49
+IT→EN,13,"Vorrei una tazza di caffè, per favore.","I'd like a cup of coffee, please.","I would like a cup of coffee, please.",77.26
+IT→EN,14,L'Italia è un paese bellissimo.,Italy is a beautiful country.,Italy is a very beautiful country.,43.01
+IT→EN,15,Lui lavora in una grande azienda.,He works in a big company.,He works in a large company.,48.89
+IT→EN,16,Abbiamo bisogno di più tempo.,We need more time.,We need more time.,100.0
+IT→EN,17,Il film è iniziato un'ora fa.,The movie started an hour ago.,The movie started an hour ago.,100.0
+IT→EN,18,Lei ha studiato medicina per sei anni.,She studied medicine for six years.,She studied medicine for six years.,100.0
+IT→EN,19,I fiori sono magnifici in primavera.,The flowers are magnificent in spring.,The flowers are magnificent in spring.,100.0
+IT→EN,20,Devo andare adesso.,I have to go now.,I have to leave now.,37.99
+PT→EN,1,"Bom dia, como você está?","Good morning, how are you?","Good morning, how are you?",100.0
+PT→EN,2,Meu nome é João e moro em Lisboa.,My name is João and I live in Lisbon.,My name is João and I live in Lisbon.,100.0
+PT→EN,3,O gato dorme no sofá.,The cat sleeps on the couch.,The cat sleeps on the sofa.,64.35
+PT→EN,4,Hoje o tempo está bom.,Today's good weather.,Today the weather is good.,12.75
+PT→EN,5,Eu gosto de comer pão ao pequeno-almoço.,I like to eat bread for breakfast.,I like eating bread for breakfast.,41.11
+PT→EN,6,A reunião começa às dez horas.,The meeting starts at ten o'clock.,The meeting starts at ten o'clock.,100.0
+PT→EN,7,"Você pode me ajudar, por favor?","Can you help me, please?","Can you help me, please?",100.0
+PT→EN,8,O livro é muito interessante.,The book is very interesting.,The book is very interesting.,100.0
+PT→EN,9,Vamos ao mercado este fim de semana.,We're going to the market this weekend.,We are going to the market this weekend.,74.21
+PT→EN,10,As crianças brincam no jardim.,Kids play in the garden.,The children play in the garden.,64.32
+PT→EN,11,Ela fala três idiomas diferentes.,She speaks three different languages.,She speaks three different languages.,100.0
+PT→EN,12,O trem chega em cinco minutos.,The train arrives in five minutes.,The train arrives in five minutes.,100.0
+PT→EN,13,"Eu gostaria de uma xícara de café, por favor.","I'd like a cup of coffee, please.","I would like a cup of coffee, please.",77.26
+PT→EN,14,Portugal é um país lindo.,Portugal is a beautiful country.,Portugal is a beautiful country.,100.0
+PT→EN,15,Ele trabalha numa grande empresa.,He works in a big company.,He works in a large company.,48.89
+PT→EN,16,Precisamos de mais tempo.,We need more time.,We need more time.,100.0
+PT→EN,17,O filme começou há uma hora.,The film started an hour ago.,The movie started an hour ago.,64.35
+PT→EN,18,Ela estudou medicina durante seis anos.,She studied medicine for six years.,She studied medicine for six years.,100.0
+PT→EN,19,As flores são magníficas na primavera.,The flowers are magnificent in spring.,The flowers are magnificent in spring.,100.0
+PT→EN,20,Eu preciso ir agora.,I need to go now.,I have to leave now.,19.3
